@@ -1,0 +1,11 @@
+
+
+
+.parent {
+    margin: 120px 327px;
+}
+.parent img {
+    outline: 3px solid black;
+    width: 850px;
+    height: 450px;
+}
